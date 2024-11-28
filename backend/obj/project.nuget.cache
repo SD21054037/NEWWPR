@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOujeOR98FY=",
+  "dgSpecHash": "VmbJQ6OZnhs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gebruiker\\source\\repos\\NEWWPR\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\Gebruiker\\Source\\Repos\\BETTERWPR\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
